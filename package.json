@@ -3,6 +3,7 @@
   "displayName": "run-from-comment",
   "description": "Run Python code in interactive terminal from the previous comment to the cursor.",
   "version": "0.0.1",
+  "license": "MIT",
   "publisher": "nicolvisser",
   "icon": "icon.png",
   "engines": {
