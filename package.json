@@ -3,6 +3,10 @@
   "displayName": "run-from-comment",
   "description": "Run Python code in interactive terminal from the previous comment to the cursor.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolvisser/run-from-comment.git"
+  },
   "license": "MIT",
   "publisher": "nicolvisser",
   "icon": "icon.png",
