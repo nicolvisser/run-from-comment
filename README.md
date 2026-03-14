@@ -6,6 +6,8 @@ This is a simple helper tool to execute code blocks without manually highlightin
 
 ![Extension Demo](demo.gif)
 
+[View in Marketplace](https://marketplace.visualstudio.com/items?itemName=nicolvisser.run-from-comment) or search for `run-from-comment`.
+
 ## Functionality
 
 The extension finds the first Python comment (`#`) above your current cursor position and executes everything from that comment line down to your cursor in the Jupyter Interactive Window.
@@ -34,7 +36,7 @@ This extension requires the official [Jupyter extension](https://marketplace.vis
 
 ## Installation
 
-Install manually from the `.vsix` file:
+Install manually from the `.vsix` file in [releases](https://github.com/nicolvisser/run-from-comment/releases):
 1. Open the **Extensions** view in VS Code.
 2. Click the `...` menu in the top right.
 3. Select **Install from VSIX...** and choose your generated file.
